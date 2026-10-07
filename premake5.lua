@@ -1,4 +1,4 @@
-project "crow"
+project "Crow"
 	kind "None"
 	language "C++"
     cppdialect "C++11"
